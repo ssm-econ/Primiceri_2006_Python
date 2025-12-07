@@ -1,0 +1,1 @@
+This repository contains a Jupyter notebook with a Python implementation of [Primiceri (2006)](https://www.jstor.org/stable/pdf/25098811.pdf). The folder contains a jupyter notebook with all the functions, as well as two files, named upto2002.txt and upto2023.txt with quarterly data on unemployment and inflation (GDP deflator).  
